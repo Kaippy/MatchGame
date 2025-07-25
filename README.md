@@ -1,0 +1,1 @@
+I developed a memory game with a graphical user interface (GUI) in WPF using C#. The game features 16 emojis, where players need to find matching pairs in the shortest possible time. The final time is displayed upon game completion, with the option to restart the match.
